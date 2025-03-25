@@ -1,0 +1,1 @@
+npx expo start -  to run the code
